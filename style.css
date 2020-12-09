@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    background-color: rgb(226, 226, 226);
+}
+.head{
+    background:  blue;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 18px;
+    width: 100px;
+    float: right;
+    height: 25px;
+    margin-right: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+.head a{
+    text-decoration: none;
+    line-height: 30px;
+    color: #fff;
+    
+}
+.letters {
+   
+   margin-left: 980px;
+   font-size: 14px;
+}
+.letters a {
+    text-decoration: none;
+}
+.letters a:hover {
+    text-decoration: underline;
+}
+.all .everything {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.all .everything .icons p {
+    margin: 10px 10px;
+}
+.icons {
+    display:flex;
+    flex-direction: row;
+}
+.all .everything .wrapper {
+    display: absolute;
+    background-color: #fff;
+    border: 2px solid #c7c7c7;
+
+    box-sizing: border-box;
+    width: 380px;
+    height: 503px;
+   background-size: 50px;
+}
+.all .everything .wrapper .class h2 {
+   margin-top: 25px;
+   margin-left: 50px;
+   margin-bottom: 0px;
+}
+.all .everything .wrapper .class p {
+    margin-left: 25px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    
+ }
+ .all .everything .wrapper .class a {
+    margin-top: -30px;
+    margin-left: 150px;
+    
+    text-decoration: none;
+ }
+ .all .everything .wrapper .class a:hover {
+     text-decoration: underline;
+ }
+ .all .everything .wrapper .class form li {
+  list-style: none;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+label {
+    display: block;
+} form li {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+  label {
+      display: block;
+  }
+
+  input {
+    height: 23px;
+    width: 300px;
+    min-width: 160px;
+    border: 1px solid #d8d8d8;
+    color: #000000;
+    outline: none;
+    font-size: 1.2em;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    line-height: 1.3em;
+    appearance: textfield;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+}
+.all .everything .wrapper form li h4 {
+    text-align: center;
+   line-height: 25px;
+    height: 35px;
+    width: 300px;
+    min-width: 160px;
+  color: #fff;
+    background-color: rgb(70, 70, 192);
+    border-radius: 5px;
+ 
+}
+.all .everything .wrapper .last {
+    font-size: 30px;
+    font-size: 17px;
+    font-style: italic;
+    color: #757575;
+    width: 300px;
+    margin-left: 40px;
+}
+.all .everything .wrapper .last h6 {
+    font-size: 13px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: black;
+    margin-bottom: 20px;
+}
+.all .everything .wrapper .least {
+    font-size:9px ;
+    margin left: 0;
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 376px;
+    line-height: 38px;
+    margin-top: 13px;
+}
+.all .everything .wrapper .last a {
+    text-decoration: none;
+}
+.all .everything .wrapper .last a:hover {
+    text-decoration: underline;
+}
+.all .everything .wrapper .least a{
+    text-decoration: none;
+}
+.all .everything .wrapper .least a:hover {
+    text-decoration: underline;
+}
+
+.words{
+    font-size: 14px;
+    color: rgb(88, 88, 88);
+    margin-top: 20px;
+}
+.all .everything .words p {
+    text-align: center;
+    margin-bottom: 4px;
+  
+}
+.all .everything .words p1 {
+    text-align: center;
+}
+.all .everything .words p2 {
+    text-align: center;
+    margin-left: 160px;
+}
